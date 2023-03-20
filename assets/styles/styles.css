@@ -1,0 +1,128 @@
+body{
+    background-color: #0A22F4;
+    display: inline-block;
+}
+
+.info{
+    margin-top: 100px;
+    margin-left: 140px;
+    color: #FFFFFF;
+}
+
+.paragraph {
+        margin-left: 140px;
+
+        color: #FFFFFF;
+        padding-right: 1020px;
+}
+
+.map{
+    margin-left: 140px;
+    margin-top: 50px;
+    border-radius: 16px;
+    box-shadow: #FFFFFF -10px 10px;
+    
+}
+
+.contact{
+    display: inline-block;
+    margin-left: 140px;
+    margin-top: 60px;
+}
+
+.phone-photo{
+    background-color: #FFFFFF;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.phone-number{
+    margin-left: 15px;
+    color: #FFFFFF;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.mail-photo{
+    background-color: #FFFFFF;
+    margin-left: 70px;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+
+.mail-adress{
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.footer{
+    color: #FFFFFF;
+    margin-top: 110px;
+    margin-left: 140px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    display: inline-block;
+}
+
+.label{
+    margin-left: 950px;
+    margin-top: -570px;
+    
+}
+
+.name-surname{
+    color: #FFFFFF;
+    display: block;
+}
+
+input{
+    border: none;
+    outline: none;
+    background-color: #0A22F4;
+    border-bottom: 1.3px solid lightseagreen;
+    color: #FFFFFF;
+    padding-bottom: 5px;
+    width: 400px;
+}
+
+.label-2{
+    margin-left: 950px;
+    margin-top: 40px;
+}
+
+.last-input{
+    border-bottom: 1.3px solid lightseagreen;
+}
+
+.button{
+    margin-left: 1230px;
+    margin-top: 30px;
+    padding: 15px;
+    border-radius: 40px;
+    border: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 15px;
+}
+
+.footer-2{
+    margin-left: 1100px;
+    margin-top: -30px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    position: relative;
+
+}
+
+.smart-group{
+   max-width: 100%;
+   height: 25px;
+   margin-left: 1285px;
+   margin-top: -35px;
+   position: absolute;
+}
